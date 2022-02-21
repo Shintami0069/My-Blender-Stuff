@@ -1,3 +1,2 @@
 # My-Blender-Stuff
-Wait (wip).
-
+Here is where I will store my blender assets and files, hopefully someday someone will stumble upon it and find it useful.
